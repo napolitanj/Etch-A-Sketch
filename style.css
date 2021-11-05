@@ -1,0 +1,31 @@
+body {
+    text-align:center;
+    display:flex;
+    align-items:center;
+    justify-content:center;
+    margin:150px;
+}
+
+.grid {
+    display:grid;
+    grid-template-columns: repeat(32, auto);
+    grid-template-rows: repeat(32, auto);
+    background-color: green;
+    border: black solid;
+    height:500px;
+    width:500px;
+}
+
+.squareStyle {
+    display:flex;
+    align-items:center;
+    justify-content:center;
+    background-color:grey;
+}
+
+button {
+    align-items:center;
+    justify-content:center;
+    padding: 20px;
+    margin: 30px;
+}
