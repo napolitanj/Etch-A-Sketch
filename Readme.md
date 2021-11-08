@@ -3,6 +3,12 @@ Etch-A-Sketch
 This project is a portion of the Odin Project Foundations course. I hope that by working through this project, I will reinforce my understanding of javascript and demonstrate my willingness to suffer through difficult tasks.
 
 ------------
+Version 1.1
+------------
+
+Added a button to pick a random color.
+
+------------
 Version 1.0
 ------------
 
