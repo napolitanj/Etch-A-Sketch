@@ -6,7 +6,7 @@
         <title>Mouseover Etch-A-Sketch</title>
         <meta charset="UTF-8">
         <link rel="stylesheet" href="style.css">
-        <script src="javaeas.js" defer></script>
+        <script src="script.js" defer></script>
     </head>
 
     <body>
@@ -15,7 +15,11 @@
             <div class="menu">
                 <button id="erase">Erase</button>
                 <button id="resize">Change Grid Size</button>
-                <button id="random">Random Color</button>
+                <button id="rainbow">Rainbow</button>
+                <div class="pickColor">
+                    <p>Pick a color!</p>
+                    <input type="color" id="pickColor" value="black"></button>
+                </div>
             </div>
             <div id="theGrid" class="grid">
                 <div id="square" class="squareStyle">

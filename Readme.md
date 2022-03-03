@@ -2,6 +2,17 @@ Etch-A-Sketch
 
 This project is a portion of the Odin Project Foundations course. I hope that by working through this project, I will reinforce my understanding of javascript and demonstrate my willingness to suffer through difficult tasks.
 
+
+------------
+Version 2.0
+------------
+
+- Rainbow pen added!
+- Option to select color added!
+- Fixed grid size bugs
+- Various style adjustments
+- Various code cleanup
+
 ------------
 Version 1.1
 ------------
