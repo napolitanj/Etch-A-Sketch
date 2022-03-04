@@ -1,4 +1,4 @@
-Live Demo - https://napolitanj.github.io/etch-a-sketch/
+LIVE DEMO: https://napolitanj.github.io/etch-a-sketch/
 
 Etch-A-Sketch
 
