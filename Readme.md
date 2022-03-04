@@ -1,3 +1,5 @@
+Live Demo - https://napolitanj.github.io/etch-a-sketch/
+
 Etch-A-Sketch
 
 This project is a portion of the Odin Project Foundations course. I hope that by working through this project, I will reinforce my understanding of javascript and demonstrate my willingness to suffer through difficult tasks.
